@@ -29,20 +29,20 @@
 
 
 # 3-8
-travel = ['beijing', 'shanghai', 'guangzhou', 'shenzhen', 'chengdu']
-print(travel)
-print(sorted(travel))
-print(travel)
-print(sorted(travel, reverse=True))
-print(travel)
-travel.reverse()
-print(travel)
-travel.reverse()
-print(travel)
-travel.sort()
-print(travel)
-travel.sort(reverse=True)
-print(travel)
+# travel = ['beijing', 'shanghai', 'guangzhou', 'shenzhen', 'chengdu']
+# print(travel)
+# print(sorted(travel))
+# print(travel)
+# print(sorted(travel, reverse=True))
+# print(travel)
+# travel.reverse()
+# print(travel)
+# travel.reverse()
+# print(travel)
+# travel.sort()
+# print(travel)
+# travel.sort(reverse=True)
+# print(travel)
 
 # 3-9
-print(len(travel))
+# print(len(travel))
